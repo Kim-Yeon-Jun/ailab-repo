@@ -22,7 +22,7 @@ git process :
 
 ---
 
-![](https://ext.fmkorea.com/files/attach/new4/20240504/6991853199_2978469841_ada0e6f2ce056c1ce7efdaa6d28d1d40.jpg)
+![](https://ext.fmkorea.com/files/attach/new4/20240504/6991853199_2978469841_ada0e6f2ce056c1ce7efdaa6d28d1d40.jpg){: style="width=100px; height=60px"}
 [Jururu Youtube](https://www.youtube.com/@JU_RURU)
 ```python
 import numpy as np
