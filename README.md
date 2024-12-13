@@ -14,7 +14,7 @@
 - Badminton
 - Eye Shopping
 
-git process : 
+git process :
     git add - git commit - git push origin main
 
 ![](./gosegu.jpeg)
@@ -30,4 +30,3 @@ import pandas as pd
 
 df = pd.read_csv('./file_path')
 ```
-
